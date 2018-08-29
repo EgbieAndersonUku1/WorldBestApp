@@ -30,8 +30,8 @@ to test a given website.
 
 
 The full details for that tests can be found at 
+https://sprinkle-burn.glitch.me/test
 
-https://sprinkle-burn.a.me/test
 
 ##
    
